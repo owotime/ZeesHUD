@@ -7,7 +7,7 @@ Scheme
 		// "[red] [blue] [green] [alpha]"
 		// i highly recommend keeping alpha to 255!
 		
-		"ZeesMain"					"255 0 90 255"
+		"ZeesMain"					"0 255 7 164"
 		"ZeesDarkMain"				"133 7 51 255"
 		
 	}
